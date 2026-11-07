@@ -1,0 +1,3 @@
+[submodule "workspaceweb/planificacion"]
+	path = workspaceweb/planificacion
+	url = https://github.com/alvarovillaverde/planificador
